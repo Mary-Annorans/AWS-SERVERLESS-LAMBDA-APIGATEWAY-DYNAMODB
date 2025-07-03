@@ -1,4 +1,4 @@
-Maryann Demo Action
+
 This project is a simple web application that includes a contact form and a success page. It is designed to allow users to submit their contact information and receive confirmation of their submission.
 
 Project Structure
